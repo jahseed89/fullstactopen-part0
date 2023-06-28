@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    border: 1px solid black;
+    padding: 1rem;
+}
+form {
+    width: 70%;
+    margin: 0 auto;
+}
+
+ul li {
+    color: blue;
+    margin: .5rem 0;
+}
+
+input {
+    padding: .5rem;
+    width: 20%;
+    border-radius: 5px;
+
+}
+button {
+    padding: .5rem 1rem; 
+    width: 22%;
+    border-radius: 5px;
+    border: 1px solid black;
+}
